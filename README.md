@@ -22,12 +22,10 @@ This project solves **10 real-world business problems** commonly asked in **data
 SalesDash/
 │
 ├── sales.ipynb               → Full Python analysis (beginner-friendly code)
-├── sales.csv                 → Dataset (Superstore-style sales data)
+├── Dataset
+    └── sales.csv                 → Dataset (Superstore-style sales data)
 ├── SalesDashboard.pbix       → Interactive Power BI dashboard
-├── README.md                 → This file
-└── images/
-    ├── dashboard_preview.png
-    └── python_output.png
+└── README.md                 → This file
 ```
 
 ---
