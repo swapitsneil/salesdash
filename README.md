@@ -23,7 +23,7 @@ SalesDash/
 │
 ├── sales.ipynb               → Full Python analysis
 ├── Dataset
-          └── sales.csv                 → Dataset
+          └── sales.csv       → Dataset
 ├── SalesDashboard.pbix       → Interactive Power BI dashboard
 └── README.md                 → This file
 ```
