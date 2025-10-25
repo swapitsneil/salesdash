@@ -201,7 +201,8 @@ sales.ipynb
 
 **Swapnil Nicolson Dadel**  
 *Aspiring Data Analyst | Python + Power BI Enthusiast*
-*contact details - swapnilnicolson.201@gmail.com*
+
+contact details - swapnilnicolson.201@gmail.com
 ---
 
 **Star this repo if you find it helpful!**  
