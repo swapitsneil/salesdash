@@ -113,7 +113,28 @@ Each problem solved in **separate, readable cells**
 ![Power BI Dashboard](images/dashboard_preview.png)
 
 ### Python Output Example
-![Python Charts](images/python_output.png)
+
+<img width="1104" height="760" alt="Image" src="https://github.com/user-attachments/assets/4a0a9500-a14c-4681-9307-88bb907a18bb" />
+
+<img width="2240" height="814" alt="Image" src="https://github.com/user-attachments/assets/10155f1d-2d5a-40f0-adbd-23806099e7f2" />
+
+<img width="1406" height="930" alt="Image" src="https://github.com/user-attachments/assets/afa599ee-3458-4d8f-a5cf-fea12c1063e7" />
+
+<img width="2568" height="966" alt="Image" src="https://github.com/user-attachments/assets/d800ece0-9289-4c14-bdfb-8c40779462d5" />
+
+<img width="2218" height="1002" alt="Image" src="https://github.com/user-attachments/assets/94e94f47-faec-495b-903d-1c33a78171a0" />
+
+<img width="2202" height="806" alt="Image" src="https://github.com/user-attachments/assets/bb9f88e4-d70e-49f7-aeb8-a8654378bafa" />
+
+<img width="2208" height="806" alt="Image" src="https://github.com/user-attachments/assets/5ff9870b-7350-45e3-a709-730a09a8d118" />
+
+<img width="1804" height="1204" alt="Image" src="https://github.com/user-attachments/assets/7689c87f-b21c-468a-a802-772bf0fb8fe2" />
+
+<img width="1382" height="1184" alt="Image" src="https://github.com/user-attachments/assets/3c8644c1-d5a2-451f-b791-ad9dbf39ed8b" />
+
+<img width="1974" height="1156" alt="Image" src="https://github.com/user-attachments/assets/5510dec1-1461-4230-87cd-ee869cb5a639" />
+
+<img width="1062" height="516" alt="Image" src="https://github.com/user-attachments/assets/3dc29baf-0d68-4967-b7e1-2cd59a6dd016" />
 
 ---
 
