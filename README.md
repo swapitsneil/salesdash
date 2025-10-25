@@ -1,4 +1,4 @@
-# **SalesDash - Sales Performance Dashboard**
+# **SalesDash 📊 - Sales Performance Dashboard**
 *Python + Power BI Project*
 
 ---
