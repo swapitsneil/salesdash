@@ -24,7 +24,7 @@ SalesDash/
 ├── sales.ipynb               → Full Python analysis
 ├── Dataset
           └── sales.csv       → Dataset
-├── SalesDashboard.pbix       → Interactive Power BI dashboard
+├── sales dashboard.pbix       → Interactive Power BI dashboard
 └── README.md                 → This file
 ```
 
@@ -88,7 +88,7 @@ Each problem solved in **separate, readable cells**
 
 ---
 
-## Power BI Dashboard (`SalesDashboard.pbix`)
+## Power BI Dashboard (`sales dashboard.pbix`)
 
 **Interactive, executive-ready dashboard**
 
@@ -110,7 +110,26 @@ Each problem solved in **separate, readable cells**
 ## Screenshots
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/dashboard_preview.png)
+
+<img width="1660" height="920" alt="Image" src="https://github.com/user-attachments/assets/507d55be-32a3-458c-b8c4-301288396fd7" />
+
+<img width="1644" height="924" alt="Image" src="https://github.com/user-attachments/assets/26332790-ef8a-418c-b180-ae2127e272c4" />
+
+<img width="1582" height="904" alt="Image" src="https://github.com/user-attachments/assets/423047eb-1d8c-4964-b6ec-fc3bba109363" />
+
+<img width="1662" height="930" alt="Image" src="https://github.com/user-attachments/assets/c1ca0311-0c08-4dd6-a64b-fe4083c24972" />
+
+<img width="1666" height="902" alt="Image" src="https://github.com/user-attachments/assets/cbf8323c-a3c9-4a20-b300-5dd0a876de7f" />
+
+<img width="1644" height="900" alt="Image" src="https://github.com/user-attachments/assets/fd38af92-1fdd-48ba-bf2c-8123ec45fadb" />
+
+<img width="1658" height="924" alt="Image" src="https://github.com/user-attachments/assets/3f636ec6-475b-45fb-b61a-7b7e041f4456" />
+
+<img width="1672" height="1002" alt="Image" src="https://github.com/user-attachments/assets/fdaa5c27-d166-4652-bd25-1cb8592c5a78" />
+
+<img width="1636" height="880" alt="Image" src="https://github.com/user-attachments/assets/6328ef49-9e57-41df-9d7c-5929af5c6623" />
+
+<img width="1664" height="938" alt="Image" src="https://github.com/user-attachments/assets/da49986d-1892-4036-b470-1d496988bef1" />
 
 ### Python Output Example
 
@@ -151,7 +170,7 @@ sales.ipynb
 
 ### 2. **Power BI Dashboard**
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Open `SalesDashboard.pbix`
+2. Open `sales dashboard.pbix`
 3. Click **Refresh** to load `sales.csv`
 4. Explore with slicers!
 
@@ -182,7 +201,7 @@ sales.ipynb
 
 **Swapnil Nicolson Dadel**  
 *Aspiring Data Analyst | Python + Power BI Enthusiast*
-
+*contact details - swapnilnicolson.201@gmail.com*
 ---
 
 **Star this repo if you find it helpful!**  
