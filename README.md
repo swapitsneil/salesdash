@@ -74,7 +74,7 @@ SalesDash/
 
 ## Python Notebook (`sales.ipynb`)
 
-**Beginner-friendly, fully commented code**  
+**Simple coding focusing on business insights**  
 No complex functions, loops, or tricks  
 Each problem solved in **separate, readable cells**
 
@@ -146,7 +146,7 @@ Each problem solved in **separate, readable cells**
 pip install pandas matplotlib seaborn
 
 # Open notebook
-jupyter notebook sales.ipynb
+sales.ipynb
 ```
 
 ### 2. **Power BI Dashboard**
